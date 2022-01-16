@@ -20,7 +20,7 @@ AppDir:
     id: org.dino.dino
     name: dino
     icon: im.dino.Dino
-    version: 0.2.0
+    version: 0.2.2
     exec: usr/local/bin/dino
     # Use '$@' to forward CLI parameters
     exec_args: "$@"
